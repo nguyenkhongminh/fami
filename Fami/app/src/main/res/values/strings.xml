@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Fami</string>
+
+    <string name="google_maps_key">AIzaSyDkrFGpHfaGytcpj1N7vh39j8f1mNqWUXU</string>
 </resources>
