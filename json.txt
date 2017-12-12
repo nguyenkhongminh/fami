@@ -1,0 +1,29 @@
+{
+	"place":
+	[
+		{"ten": "KFC Thủ Đức",
+		"loai": "nhahang",
+		"diachi": "abc",
+		"mota": "Quán này ngon lắm",
+		"danhgia": 4,
+		"lat": 10.850866, 
+		"lng": 106.764755
+		},
+		{"ten": "Suối Tiên",
+		"loai": "dulich",
+		"diachi": "120 Xa lộ Hà Nội, Phường Tân Phú, Quận 9, Hồ Chí Minh, Việt Nam",
+		"mota": "Khu du lịch Suối Tiên",
+		"danhgia": 3,
+		"lat": 10.860527,
+		"lng": 106.802696
+		},
+		{"ten": "Rex Hotel",
+		"loai": "khachsan",
+		"diachi": "141 Nguyễn Huệ, Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam",
+		"mota": "Đây là khách sạn Rex",
+		"danhgia": 5,
+		"lat": 10.776050,
+		"lng": 106.701235
+		}
+	]
+}
